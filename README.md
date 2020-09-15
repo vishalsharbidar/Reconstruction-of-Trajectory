@@ -31,7 +31,7 @@ Here I have created four functions named,
 
 * `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
 
-Using these functions 
+Once the functions are defined, using these functions the below results were obtained.
 
 
 **1.Roundabout** (For the above data set)
