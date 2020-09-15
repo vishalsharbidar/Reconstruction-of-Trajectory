@@ -18,4 +18,4 @@ displacement - Displacement data from the odometer is in meters and gives the **
 
 yaw_rate- Yaw rate is measured in radians per second with the convention that positive yaw corresponds to **counter-clockwise** rotation. 
 
-acceleration - Acceleration is measured in m/s^2 and is always in the direction of motion of the vehicle (forward). 
+**`acceleration`** - Acceleration is measured in m/s^2 and is always in the direction of motion of the vehicle (forward). 
