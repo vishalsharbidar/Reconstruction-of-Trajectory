@@ -8,4 +8,4 @@ The Input data has 4 variables i.e,
   * Yaw rate
   * Acceleration
 The data set can be seen below,
-![
+![Input data set](/figures/Input_data.png)
