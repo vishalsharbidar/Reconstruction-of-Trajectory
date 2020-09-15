@@ -23,10 +23,12 @@ The Input data has 4 variables i.e,
 ### Solution
 
 Here I have created four functions named,
-* `get_speeds` - returns a length $N$ list where entry $i$ contains the speed ($m/s$) of the vehicle at $t = i \times \Delta t$ 
+* `get_speeds` - returns a length N list where entry i contains the speed (m/s) of the vehicle at t = i * Δt 
 
-* `get_headings` - returns a length $N$ list where entry $i$ contains the heading (radians, $0 \leq \theta < 2\pi$) of the vehicle at $t = i \times \Delta t$
+* `get_headings` - returns a length N list where entry i contains the heading (radians,  0≤𝜃<2𝜋 ) of the vehicle at t = i * Δt 
 
-* `get_x_y` - returns a length $N$ list where entry $i$ contains an `(x, y)` tuple corresponding to the $x$ and $y$ coordinates (meters) of the vehicle at $t = i \times \Delta t$ 
+* `get_x_y` - returns a length N list where entry i contains an `(x, y)` tuple corresponding to the x and y coordinates (meters) of the vehicle at t = i * Δt 
 
 * `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
+
+![trajectory_1](/figures/trajectory_1.PNG) 
