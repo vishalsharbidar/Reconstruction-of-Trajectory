@@ -30,7 +30,8 @@ Here I have created four functions named,
 * `get_x_y` - returns a length N list where entry i contains an `(x, y)` tuple corresponding to the x and y coordinates (meters) of the vehicle at t = i * Δt 
 
 * `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
+Roundabout, Lane crossing, Parallel parking
 
-![trajectory_1](/figures/trajectory_1.PNG) 
-![trajectory_2](/figures/trajectory_2.PNG), ![trajectory_3](/figures/trajectory_3.PNG) 
+![Roundabout](/figures/trajectory_1.PNG) 
+![Lane crossing](/figures/trajectory_2.PNG), ![Parallel parking](/figures/trajectory_3.PNG) 
 
