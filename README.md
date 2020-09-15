@@ -19,3 +19,14 @@ The Input data has 4 variables i.e,
 **`yaw_rate`** - Yaw rate is measured in radians per second with the convention that positive yaw corresponds to **counter-clockwise** rotation. 
 
 **`acceleration`** - Acceleration is measured in m/s2 and is always in the direction of motion of the vehicle (forward). 
+
+### Solution
+
+Here I have created four functions named,
+* `get_speeds` - returns a length $N$ list where entry $i$ contains the speed ($m/s$) of the vehicle at $t = i \times \Delta t$ 
+
+* `get_headings` - returns a length $N$ list where entry $i$ contains the heading (radians, $0 \leq \theta < 2\pi$) of the vehicle at $t = i \times \Delta t$
+
+* `get_x_y` - returns a length $N$ list where entry $i$ contains an `(x, y)` tuple corresponding to the $x$ and $y$ coordinates (meters) of the vehicle at $t = i \times \Delta t$ 
+
+* `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
