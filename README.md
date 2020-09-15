@@ -31,8 +31,15 @@ Here I have created four functions named,
 
 * `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
 
-**1.Roundabout    2.Lane Crossing    3.Parallel Parking**
+**1.Roundabout**
 
 ![Roundabout](/figures/trajectory_1.PNG) 
-![Lane crossing](/figures/trajectory_2.PNG), ![Parallel parking](/figures/trajectory_3.PNG) 
+
+**2.Lane Crossing**
+
+![Lane crossing](/figures/trajectory_2.PNG)
+
+**3.Parallel Parking**
+
+![Parallel parking](/figures/trajectory_3.PNG) 
 
