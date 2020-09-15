@@ -32,4 +32,5 @@ Here I have created four functions named,
 * `show_x_y` - generates an x vs. y scatter plot of vehicle positions. 
 
 ![trajectory_1](/figures/trajectory_1.PNG) 
-![trajectory_2](/figures/trajectory_2.PNG), 
+![trajectory_2](/figures/trajectory_2.PNG), ![trajectory_3](/figures/trajectory_3.PNG) 
+
